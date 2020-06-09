@@ -1,0 +1,30 @@
+Art
+Autobiography
+Anthology
+Biography
+Book review
+Diary
+Dictionary
+Crime
+Encyclopedia
+Drama
+Fairytale
+Health
+Fantasy
+History
+Graphic novel
+Journal
+Math
+Horror
+Memoir
+Mystery
+Picture book
+Textbook
+Poetry
+Review
+Science
+Romance
+Satire
+Travel
+Science fiction
+Thriller
